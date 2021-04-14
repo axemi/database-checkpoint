@@ -1,7 +1,7 @@
 # database-checkpoint
 #Challenge 1
 </br>
-![Screenshot](Challenge1.png)
+![Screenshot](challenge1.PNG)
 
 #Challenge 2
 </br>
